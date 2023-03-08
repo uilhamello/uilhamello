@@ -1,16 +1,13 @@
-### Hi there 👋
+<a align="center">
+<img src="https://user-images.githubusercontent.com/972486/223615046-14214a4b-32ef-4c63-a20f-61d43f741838.jpg" width="90%" height="90%">
+</a>
 
-<!--
-**uilhamello/uilhamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate BackEnd developer and IT Project Manager from Brasil  <img src="https://user-images.githubusercontent.com/972486/223615749-68c3fcb9-4a5c-4f7f-88e4-3e3264db24b3.png" width="15" height="15">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a personal project
+- 🌱 I’m learning Python game development
+- 📫 How to reach me: williammello86@gmail.com
+- ⚡ Fun fact: I teach programming logic to kids ❤️🐣
+
+
