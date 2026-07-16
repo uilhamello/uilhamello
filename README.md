@@ -7,7 +7,7 @@ I'm a passionate BackEnd developer and IT Project Manager from BraSil  <img src=
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m learning Python game development
-- 📫 How to reach me: williammello86@gmail.com
+- 📫 How to reach me: udm.nunes@gmail.com
 - ⚡ Fun fact: I teach programming logic to kids ❤️🐣
 
 
