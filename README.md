@@ -2,12 +2,21 @@
 <img src="https://user-images.githubusercontent.com/972486/223615046-14214a4b-32ef-4c63-a20f-61d43f741838.jpg" width="90%" height="90%">
 </a>
 
-I'm a passionate BackEnd developer and IT Project Manager from BraSil  <img src="https://user-images.githubusercontent.com/972486/223615749-68c3fcb9-4a5c-4f7f-88e4-3e3264db24b3.png" width="15" height="15">
+### William Nunes
 
+Software architect and hands-on engineer — 15+ years building and modernizing backend
+systems that carry real transaction volume, in PHP, Node.js and Python on Google Cloud.
 
-- 🔭 I’m currently working on a personal project
-- 🌱 I’m learning Python game development
-- 📫 How to reach me: udm.nunes@gmail.com
-- ⚡ Fun fact: I teach programming logic to kids ❤️🐣
+Currently at **Auto Avaliar**, one of Brazil's largest B2B platforms for the automotive
+industry, where I lead the adoption of AI-assisted engineering across the delivery cycle.
 
+- 🏗️ Software architecture, legacy modernization and event-driven systems
+- ☁️ Google Cloud — App Engine, Cloud Run, Cloud SQL, Pub/Sub
+- 🤖 AI-assisted engineering — Claude Code, MCP, agent and skill design
+- 🌍 Delivered software in Brazil, Mexico, Argentina and Australia
+- ❤️ I teach programming logic to kids
 
+**Pinned below:** a unified Vertex AI launcher for Claude Code and Gemini CLI, and an
+automated Sophos SSL VPN setup for Linux.
+
+📫 williamnunes@gmail.com · [LinkedIn](https://linkedin.com/in/REVISAR-URL)
