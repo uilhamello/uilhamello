@@ -19,4 +19,4 @@ industry, where I lead the adoption of AI-assisted engineering across the delive
 **Pinned below:** a unified Vertex AI launcher for Claude Code and Gemini CLI, and an
 automated Sophos SSL VPN setup for Linux.
 
-📫 williamnunes@gmail.com · [LinkedIn](https://www.linkedin.com/in/william-nunes-11a33234/)
+📫 williamnunes@gmail.com · [LinkedIn](https://www.linkedin.com/in/william-nunes-tech/)
